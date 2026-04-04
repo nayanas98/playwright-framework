@@ -15,3 +15,5 @@ npx playwright test
 ## Tech Stack
 - Playwright
 - TypeScript
+
+![Playwright Tests](https://github.com/nayanas98/playwright-framework/actions/workflows/playwright.yml/badge.svg)
