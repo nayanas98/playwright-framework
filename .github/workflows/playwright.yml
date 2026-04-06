@@ -7,6 +7,7 @@ on:
       - 'pom/**'
   pull_request:
     branches: [ main ]
+  workflow_dispatch:   # 🔥 Added this line to enable the manual trigger button!
 
 jobs:
   test:
